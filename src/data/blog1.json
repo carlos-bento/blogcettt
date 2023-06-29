@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/blog/img5.jpg",
+    "title": "A vida na cidade: belezas escondidas.",
+    "tags1": "Viagem",
+    "tags2": "Mundo",
+    "tags3": "Vida",
+    "by": "Carlos B.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, incididunt ut labore et dolore magna aliqua. Ut laboris nisi ut aliquip ex ea commodo consequat.",
+    "date2": ["Junho de 2023", "27"]
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/blog/img3.jpg",
+    "title": "A vida no gelo: belezas escondidas.",
+    "tags1": "Viagem",
+    "tags2": "Mundo",
+    "tags3": "Vida",
+    "by": "C. Bento",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis cillum dolore eu fugiat nulla pariatur.",
+    "date2": ["Junho de 2023", "27"]
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/blog/img4.jpg",
+    "title": "A vida no mar: belezas escondidas.",
+    "tags1": "Viagem",
+    "tags2": "Mundo",
+    "tags3": "Vida",
+    "by": "C. B.",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Excepteur deserunt mollit anim id est laborum.",
+    "date2": ["Junho de 2023", "27"]
+  }
+]
